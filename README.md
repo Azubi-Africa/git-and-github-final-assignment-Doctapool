@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -  Round-to-the-nearest-whole-number           |  -  Round-to-the-nearest-whole-number           | https://github.com/Doctapool/Round-to-the-nearest-whole-number.git      |
+| 2 |  -  Diverging-Stacked-Bar-Chart           |  - Stacked-Bar-Chart            |  https://github.com/Doctapool/Diverging-Stacked-Bar-Chart.git      |
+| 3 |  - Mortgage-Calculator            |  - Mortgage-Calculator with Python            | https://github.com/Doctapool/Mortgage-Calculator.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
